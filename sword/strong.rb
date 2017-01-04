@@ -26,7 +26,7 @@ puts head
 	print "<p id='#{strong_num}'>"
 	entry.each_line do |line|
 		res = line.gsub(/(\d+)/) do |s|
-			s = "<a href='footnotes.html##{s}'>#{s}</a>"
+			s = "<a href='StrongsHebrew.html##{s}'>#{s}</a>"
 		end
 		print res
 	end

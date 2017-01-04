@@ -1,0 +1,15 @@
+diatheke -b OSHB -o fmcvaplsbwgeixM -f internal -l en -e UTF8 -k Gen 1 > genesis1.sword
+diatheke -b OSHB -o fmcvaplsbwgeixM -f internal -l en -e UTF8 -k Gen 2 > genesis2.sword
+diatheke -b OSHB -o fmcvaplsbwgeixM -f internal -l en -e UTF8 -k Gen 3 > genesis3.sword
+diatheke -b OSHB -o fmcvaplsbwgeixM -f internal -l en -e UTF8 -k Gen 4 > genesis4.sword
+diatheke -b OSHB -o fmcvaplsbwgeixM -f internal -l en -e UTF8 -k Gen 5 > genesis5.sword
+diatheke -b OSHB -o fmcvaplsbwgeixM -f internal -l en -e UTF8 -k Psalms 1 > psalmss1.sword
+diatheke -b OSHB -o fmcvaplsbwgeixM -f internal -l en -e UTF8 -k Psalms 2 > psalmss2.sword
+diatheke -b OSHB -o fmcvaplsbwgeixM -f internal -l en -e UTF8 -k Psalms 3 > psalmss3.sword
+diatheke -b OSHB -o fmcvaplsbwgeixM -f internal -l en -e UTF8 -k Psalms 4 > psalmss4.sword
+diatheke -b OSHB -o fmcvaplsbwgeixM -f internal -l en -e UTF8 -k Psalms 5 > psalmss5.sword
+diatheke -b OSHB -o fmcvaplsbwgeixM -f internal -l en -e UTF8 -k Prov 1 > proverbs1.sword
+diatheke -b OSHB -o fmcvaplsbwgeixM -f internal -l en -e UTF8 -k Prov 2 > proverbs2.sword
+diatheke -b OSHB -o fmcvaplsbwgeixM -f internal -l en -e UTF8 -k Prov 3 > proverbs3.sword
+diatheke -b OSHB -o fmcvaplsbwgeixM -f internal -l en -e UTF8 -k Prov 4 > proverbs4.sword
+diatheke -b OSHB -o fmcvaplsbwgeixM -f internal -l en -e UTF8 -k Prov 5 > proverbs5.sword

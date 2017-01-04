@@ -7,8 +7,22 @@ require 'json'
 #diatheke -b OSHB -o fmcvaplsbwgeixM -f internal -l en -e UTF8 -k Gen 1:1
 #diatheke -b OSHB -o fmcvaplsbwgeixM -f internal -l en -e UTF8 -k Gen 1
 
-File.open("gen1.sword", "r") do |f|
+#File.open("gen2.sword", "r") do |f|
+File.open(ARGV[0], "r") do |f|
 	everything = ""
+
+	head = <<-DOC
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Tanakh</title>
+<link rel="stylesheet" href="KUG.css" type="text/css" />
+</head>
+<body>
+<div>
+	DOC
+
+	puts head
 
 	@verses = Array.new
 
@@ -57,14 +71,23 @@ File.open("gen1.sword", "r") do |f|
 				if word['w'].has_key? 'seg'
 					if word['w']['seg'].class == Array
 						word['w']['seg'].each do |s|
-							print "<a href='footnotes.html##{word['w']['strong']}'> #{s['content'].reverse} </a>"
+							print "<a href='StrongsHebrew.html##{word['w']['strong']}'> #{s['content'].reverse} </a>"
 						end
 					elsif word['w']['seg'].class == Hash
-						print "<a href='footnotes.html##{word['w']['strong']}'> #{word['w']['seg']['content'].reverse} </a>"
+						print "<a href='StrongsHebrew.html##{word['w']['strong']}'> #{word['w']['seg']['content'].reverse} </a>"
 					end
 				end
 			end
 		end
 		puts "</p>"
 	end
+
+	close = <<-DOC
+</div>
+</body>
+</html>
+	DOC
+
+	puts close
+
 end
