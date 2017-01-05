@@ -19,7 +19,7 @@ p {
 	text-indent: 0em;
 }
 
-p.strongs {
+.strongs p {
 	font-size: 1em;
 	direction: ltr;
 }
