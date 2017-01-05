@@ -1,7 +1,21 @@
  /* Style Definitions */
- 
+
+@font-face {
+	font-family: 'Ezra SIL';
+	src: url(SILEOT.ttf);
+}
+
+@font-face {
+	font-family: 'Scheherazade', serif, sans-serif;
+	src: url(ScheherazadeRegOT.ttf);
+}
+
+
 p
 {
+	font-family: 'Ezra SIL', 'David Transparent', FrankRuehl, Arial;
+	font-size: 1.5em;
+	direction: rtl;
 	margin-top: 1em;
 	text-indent: 0em;
 }

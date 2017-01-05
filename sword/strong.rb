@@ -25,6 +25,8 @@ puts head
 	strong_num = /(\d+)/.match(entry.lines.first)
 	print "<p id='#{strong_num}'>"
 	entry.each_line do |line|
+		#TODO strip out leading '0' see HEBREW for 098
+		# or fixed in vim with :%s/H0/H/g
 		res = line.gsub(/(\d+)/) do |s|
 			s = "<a href='StrongsHebrew.html##{s}'>#{s}</a>"
 		end

@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Ezra SIL';
+    src: url(../Fonts/SILEOT.ttf);
+}
+
+@font-face {
+        font-family: 'Scheherazade', serif, sans-serif;
+        src: url(../Fonts/ScheherazadeRegOT.ttf);
+}
+
+
+.Hebrew {
+    font-family: 'Ezra SIL', 'David Transparent', FrankRuehl, Arial;
+    font-size: 1.5em;
+/*    text-align: justify; */
+    direction: rtl;
+}
+
+
+  .Arabic {
+    font-family: 'Scheherazade', 'Arabic Transparent', 'Geeza Pro', Tahoma;
+    font-size: 1.5em;
+/*    text-align: justify; */
+    direction:rtl;
+}
+
+p {text-indent: 0; text-align: center;}
+
+h3 {text-align: center; font-size: 110%}

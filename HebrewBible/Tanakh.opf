@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!--
   The unique identifier in <package unique-identifier=”XYZ”> is a reference to
   the identifier specified in <metadata> as <dc:Identifier id=”XYZ”>.
@@ -30,7 +30,7 @@
   "de"    German
   "es"    Spanish
   -->
-	<dc:language>en-us</dc:language>
+	<dc:language>en</dc:language>
 
   <!-- Cover [mandatory]. The cover image must be specified in <manifest> and referenced from
   this <meta> element with a name="cover" attribute.
