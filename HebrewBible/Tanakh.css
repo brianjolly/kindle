@@ -11,7 +11,8 @@
 }
 
 
-p {
+.verse,
+.hebrew {
 	font-family: 'Ezra SIL', 'David Transparent', FrankRuehl, Arial;
 	font-size: 1.3em;
 	direction: rtl;
@@ -19,7 +20,8 @@ p {
 	text-indent: 0em;
 }
 
-.strongs p {
+.footnote,
+.strongs {
 	font-size: 1em;
 	direction: ltr;
 }
