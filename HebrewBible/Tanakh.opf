@@ -88,29 +88,476 @@
 <manifest>
   <!-- HTML content files [mandatory] -->
 	<item id="item1" media-type="application/xhtml+xml" href="toc.html"></item>
-	<item id="Genesis1" media-type="application/xhtml+xml" href="Genesis1.html"></item>
-	<item id="Genesis2" media-type="application/xhtml+xml" href="Genesis2.html"></item>
-	<item id="Genesis3" media-type="application/xhtml+xml" href="Genesis3.html"></item>
-	<item id="Genesis4" media-type="application/xhtml+xml" href="Genesis4.html"></item>
-	<item id="Genesis5" media-type="application/xhtml+xml" href="Genesis5.html"></item>
-	<item id="Psalms1" media-type="application/xhtml+xml" href="Psalms1.html"></item>
-	<item id="Psalms2" media-type="application/xhtml+xml" href="Psalms2.html"></item>
-	<item id="Psalms3" media-type="application/xhtml+xml" href="Psalms3.html"></item>
-	<item id="Psalms4" media-type="application/xhtml+xml" href="Psalms4.html"></item>
-	<item id="Psalms5" media-type="application/xhtml+xml" href="Psalms5.html"></item>
-	<item id="Proverbs1" media-type="application/xhtml+xml" href="Proverbs1.html"></item>
-	<item id="Proverbs2" media-type="application/xhtml+xml" href="Proverbs2.html"></item>
-	<item id="Proverbs3" media-type="application/xhtml+xml" href="Proverbs3.html"></item>
-	<item id="Proverbs4" media-type="application/xhtml+xml" href="Proverbs4.html"></item>
-	<item id="Proverbs5" media-type="application/xhtml+xml" href="Proverbs5.html"></item>
+
+<item id='Gen.1' media-type='application/xhtml+xml' href='Gen.1.html'></item>
+<item id='Gen.1.footnotes' media-type='application/xhtml+xml' href='Gen.1.footnotes.html'></item>
+<item id='Gen.2' media-type='application/xhtml+xml' href='Gen.2.html'></item>
+<item id='Gen.2.footnotes' media-type='application/xhtml+xml' href='Gen.2.footnotes.html'></item>
+<item id='Gen.3' media-type='application/xhtml+xml' href='Gen.3.html'></item>
+<item id='Gen.3.footnotes' media-type='application/xhtml+xml' href='Gen.3.footnotes.html'></item>
+<item id='Gen.4' media-type='application/xhtml+xml' href='Gen.4.html'></item>
+<item id='Gen.4.footnotes' media-type='application/xhtml+xml' href='Gen.4.footnotes.html'></item>
+<item id='Gen.5' media-type='application/xhtml+xml' href='Gen.5.html'></item>
+<item id='Gen.5.footnotes' media-type='application/xhtml+xml' href='Gen.5.footnotes.html'></item>
+<item id='Gen.6' media-type='application/xhtml+xml' href='Gen.6.html'></item>
+<item id='Gen.6.footnotes' media-type='application/xhtml+xml' href='Gen.6.footnotes.html'></item>
+<item id='Gen.7' media-type='application/xhtml+xml' href='Gen.7.html'></item>
+<item id='Gen.7.footnotes' media-type='application/xhtml+xml' href='Gen.7.footnotes.html'></item>
+<item id='Gen.8' media-type='application/xhtml+xml' href='Gen.8.html'></item>
+<item id='Gen.8.footnotes' media-type='application/xhtml+xml' href='Gen.8.footnotes.html'></item>
+<item id='Gen.9' media-type='application/xhtml+xml' href='Gen.9.html'></item>
+<item id='Gen.9.footnotes' media-type='application/xhtml+xml' href='Gen.9.footnotes.html'></item>
+<item id='Gen.10' media-type='application/xhtml+xml' href='Gen.10.html'></item>
+<item id='Gen.10.footnotes' media-type='application/xhtml+xml' href='Gen.10.footnotes.html'></item>
+<item id='Gen.11' media-type='application/xhtml+xml' href='Gen.11.html'></item>
+<item id='Gen.11.footnotes' media-type='application/xhtml+xml' href='Gen.11.footnotes.html'></item>
+<item id='Gen.12' media-type='application/xhtml+xml' href='Gen.12.html'></item>
+<item id='Gen.12.footnotes' media-type='application/xhtml+xml' href='Gen.12.footnotes.html'></item>
+<item id='Gen.13' media-type='application/xhtml+xml' href='Gen.13.html'></item>
+<item id='Gen.13.footnotes' media-type='application/xhtml+xml' href='Gen.13.footnotes.html'></item>
+<item id='Gen.14' media-type='application/xhtml+xml' href='Gen.14.html'></item>
+<item id='Gen.14.footnotes' media-type='application/xhtml+xml' href='Gen.14.footnotes.html'></item>
+<item id='Gen.15' media-type='application/xhtml+xml' href='Gen.15.html'></item>
+<item id='Gen.15.footnotes' media-type='application/xhtml+xml' href='Gen.15.footnotes.html'></item>
+<item id='Gen.16' media-type='application/xhtml+xml' href='Gen.16.html'></item>
+<item id='Gen.16.footnotes' media-type='application/xhtml+xml' href='Gen.16.footnotes.html'></item>
+<item id='Gen.17' media-type='application/xhtml+xml' href='Gen.17.html'></item>
+<item id='Gen.17.footnotes' media-type='application/xhtml+xml' href='Gen.17.footnotes.html'></item>
+<item id='Gen.18' media-type='application/xhtml+xml' href='Gen.18.html'></item>
+<item id='Gen.18.footnotes' media-type='application/xhtml+xml' href='Gen.18.footnotes.html'></item>
+<item id='Gen.19' media-type='application/xhtml+xml' href='Gen.19.html'></item>
+<item id='Gen.19.footnotes' media-type='application/xhtml+xml' href='Gen.19.footnotes.html'></item>
+<item id='Gen.20' media-type='application/xhtml+xml' href='Gen.20.html'></item>
+<item id='Gen.20.footnotes' media-type='application/xhtml+xml' href='Gen.20.footnotes.html'></item>
+<item id='Gen.21' media-type='application/xhtml+xml' href='Gen.21.html'></item>
+<item id='Gen.21.footnotes' media-type='application/xhtml+xml' href='Gen.21.footnotes.html'></item>
+<item id='Gen.22' media-type='application/xhtml+xml' href='Gen.22.html'></item>
+<item id='Gen.22.footnotes' media-type='application/xhtml+xml' href='Gen.22.footnotes.html'></item>
+<item id='Gen.23' media-type='application/xhtml+xml' href='Gen.23.html'></item>
+<item id='Gen.23.footnotes' media-type='application/xhtml+xml' href='Gen.23.footnotes.html'></item>
+<item id='Gen.24' media-type='application/xhtml+xml' href='Gen.24.html'></item>
+<item id='Gen.24.footnotes' media-type='application/xhtml+xml' href='Gen.24.footnotes.html'></item>
+<item id='Gen.25' media-type='application/xhtml+xml' href='Gen.25.html'></item>
+<item id='Gen.25.footnotes' media-type='application/xhtml+xml' href='Gen.25.footnotes.html'></item>
+<item id='Gen.26' media-type='application/xhtml+xml' href='Gen.26.html'></item>
+<item id='Gen.26.footnotes' media-type='application/xhtml+xml' href='Gen.26.footnotes.html'></item>
+<item id='Gen.27' media-type='application/xhtml+xml' href='Gen.27.html'></item>
+<item id='Gen.27.footnotes' media-type='application/xhtml+xml' href='Gen.27.footnotes.html'></item>
+<item id='Gen.28' media-type='application/xhtml+xml' href='Gen.28.html'></item>
+<item id='Gen.28.footnotes' media-type='application/xhtml+xml' href='Gen.28.footnotes.html'></item>
+<item id='Gen.29' media-type='application/xhtml+xml' href='Gen.29.html'></item>
+<item id='Gen.29.footnotes' media-type='application/xhtml+xml' href='Gen.29.footnotes.html'></item>
+<item id='Gen.30' media-type='application/xhtml+xml' href='Gen.30.html'></item>
+<item id='Gen.30.footnotes' media-type='application/xhtml+xml' href='Gen.30.footnotes.html'></item>
+<item id='Gen.31' media-type='application/xhtml+xml' href='Gen.31.html'></item>
+<item id='Gen.31.footnotes' media-type='application/xhtml+xml' href='Gen.31.footnotes.html'></item>
+<item id='Gen.32' media-type='application/xhtml+xml' href='Gen.32.html'></item>
+<item id='Gen.32.footnotes' media-type='application/xhtml+xml' href='Gen.32.footnotes.html'></item>
+<item id='Gen.33' media-type='application/xhtml+xml' href='Gen.33.html'></item>
+<item id='Gen.33.footnotes' media-type='application/xhtml+xml' href='Gen.33.footnotes.html'></item>
+<item id='Gen.34' media-type='application/xhtml+xml' href='Gen.34.html'></item>
+<item id='Gen.34.footnotes' media-type='application/xhtml+xml' href='Gen.34.footnotes.html'></item>
+<item id='Gen.35' media-type='application/xhtml+xml' href='Gen.35.html'></item>
+<item id='Gen.35.footnotes' media-type='application/xhtml+xml' href='Gen.35.footnotes.html'></item>
+<item id='Gen.36' media-type='application/xhtml+xml' href='Gen.36.html'></item>
+<item id='Gen.36.footnotes' media-type='application/xhtml+xml' href='Gen.36.footnotes.html'></item>
+<item id='Gen.37' media-type='application/xhtml+xml' href='Gen.37.html'></item>
+<item id='Gen.37.footnotes' media-type='application/xhtml+xml' href='Gen.37.footnotes.html'></item>
+<item id='Gen.38' media-type='application/xhtml+xml' href='Gen.38.html'></item>
+<item id='Gen.38.footnotes' media-type='application/xhtml+xml' href='Gen.38.footnotes.html'></item>
+<item id='Gen.39' media-type='application/xhtml+xml' href='Gen.39.html'></item>
+<item id='Gen.39.footnotes' media-type='application/xhtml+xml' href='Gen.39.footnotes.html'></item>
+<item id='Gen.40' media-type='application/xhtml+xml' href='Gen.40.html'></item>
+<item id='Gen.40.footnotes' media-type='application/xhtml+xml' href='Gen.40.footnotes.html'></item>
+<item id='Gen.41' media-type='application/xhtml+xml' href='Gen.41.html'></item>
+<item id='Gen.41.footnotes' media-type='application/xhtml+xml' href='Gen.41.footnotes.html'></item>
+<item id='Gen.42' media-type='application/xhtml+xml' href='Gen.42.html'></item>
+<item id='Gen.42.footnotes' media-type='application/xhtml+xml' href='Gen.42.footnotes.html'></item>
+<item id='Gen.43' media-type='application/xhtml+xml' href='Gen.43.html'></item>
+<item id='Gen.43.footnotes' media-type='application/xhtml+xml' href='Gen.43.footnotes.html'></item>
+<item id='Gen.44' media-type='application/xhtml+xml' href='Gen.44.html'></item>
+<item id='Gen.44.footnotes' media-type='application/xhtml+xml' href='Gen.44.footnotes.html'></item>
+<item id='Gen.45' media-type='application/xhtml+xml' href='Gen.45.html'></item>
+<item id='Gen.45.footnotes' media-type='application/xhtml+xml' href='Gen.45.footnotes.html'></item>
+<item id='Gen.46' media-type='application/xhtml+xml' href='Gen.46.html'></item>
+<item id='Gen.46.footnotes' media-type='application/xhtml+xml' href='Gen.46.footnotes.html'></item>
+<item id='Gen.47' media-type='application/xhtml+xml' href='Gen.47.html'></item>
+<item id='Gen.47.footnotes' media-type='application/xhtml+xml' href='Gen.47.footnotes.html'></item>
+<item id='Gen.48' media-type='application/xhtml+xml' href='Gen.48.html'></item>
+<item id='Gen.48.footnotes' media-type='application/xhtml+xml' href='Gen.48.footnotes.html'></item>
+<item id='Gen.49' media-type='application/xhtml+xml' href='Gen.49.html'></item>
+<item id='Gen.49.footnotes' media-type='application/xhtml+xml' href='Gen.49.footnotes.html'></item>
+<item id='Gen.50' media-type='application/xhtml+xml' href='Gen.50.html'></item>
+<item id='Gen.50.footnotes' media-type='application/xhtml+xml' href='Gen.50.footnotes.html'></item>
+<item id='Ps.1' media-type='application/xhtml+xml' href='Ps.1.html'></item>
+<item id='Ps.1.footnotes' media-type='application/xhtml+xml' href='Ps.1.footnotes.html'></item>
+<item id='Ps.2' media-type='application/xhtml+xml' href='Ps.2.html'></item>
+<item id='Ps.2.footnotes' media-type='application/xhtml+xml' href='Ps.2.footnotes.html'></item>
+<item id='Ps.3' media-type='application/xhtml+xml' href='Ps.3.html'></item>
+<item id='Ps.3.footnotes' media-type='application/xhtml+xml' href='Ps.3.footnotes.html'></item>
+<item id='Ps.4' media-type='application/xhtml+xml' href='Ps.4.html'></item>
+<item id='Ps.4.footnotes' media-type='application/xhtml+xml' href='Ps.4.footnotes.html'></item>
+<item id='Ps.5' media-type='application/xhtml+xml' href='Ps.5.html'></item>
+<item id='Ps.5.footnotes' media-type='application/xhtml+xml' href='Ps.5.footnotes.html'></item>
+<item id='Ps.6' media-type='application/xhtml+xml' href='Ps.6.html'></item>
+<item id='Ps.6.footnotes' media-type='application/xhtml+xml' href='Ps.6.footnotes.html'></item>
+<item id='Ps.7' media-type='application/xhtml+xml' href='Ps.7.html'></item>
+<item id='Ps.7.footnotes' media-type='application/xhtml+xml' href='Ps.7.footnotes.html'></item>
+<item id='Ps.8' media-type='application/xhtml+xml' href='Ps.8.html'></item>
+<item id='Ps.8.footnotes' media-type='application/xhtml+xml' href='Ps.8.footnotes.html'></item>
+<item id='Ps.9' media-type='application/xhtml+xml' href='Ps.9.html'></item>
+<item id='Ps.9.footnotes' media-type='application/xhtml+xml' href='Ps.9.footnotes.html'></item>
+<item id='Ps.10' media-type='application/xhtml+xml' href='Ps.10.html'></item>
+<item id='Ps.10.footnotes' media-type='application/xhtml+xml' href='Ps.10.footnotes.html'></item>
+<item id='Ps.11' media-type='application/xhtml+xml' href='Ps.11.html'></item>
+<item id='Ps.11.footnotes' media-type='application/xhtml+xml' href='Ps.11.footnotes.html'></item>
+<item id='Ps.12' media-type='application/xhtml+xml' href='Ps.12.html'></item>
+<item id='Ps.12.footnotes' media-type='application/xhtml+xml' href='Ps.12.footnotes.html'></item>
+<item id='Ps.13' media-type='application/xhtml+xml' href='Ps.13.html'></item>
+<item id='Ps.13.footnotes' media-type='application/xhtml+xml' href='Ps.13.footnotes.html'></item>
+<item id='Ps.14' media-type='application/xhtml+xml' href='Ps.14.html'></item>
+<item id='Ps.14.footnotes' media-type='application/xhtml+xml' href='Ps.14.footnotes.html'></item>
+<item id='Ps.15' media-type='application/xhtml+xml' href='Ps.15.html'></item>
+<item id='Ps.15.footnotes' media-type='application/xhtml+xml' href='Ps.15.footnotes.html'></item>
+<item id='Ps.16' media-type='application/xhtml+xml' href='Ps.16.html'></item>
+<item id='Ps.16.footnotes' media-type='application/xhtml+xml' href='Ps.16.footnotes.html'></item>
+<item id='Ps.17' media-type='application/xhtml+xml' href='Ps.17.html'></item>
+<item id='Ps.17.footnotes' media-type='application/xhtml+xml' href='Ps.17.footnotes.html'></item>
+<item id='Ps.18' media-type='application/xhtml+xml' href='Ps.18.html'></item>
+<item id='Ps.18.footnotes' media-type='application/xhtml+xml' href='Ps.18.footnotes.html'></item>
+<item id='Ps.19' media-type='application/xhtml+xml' href='Ps.19.html'></item>
+<item id='Ps.19.footnotes' media-type='application/xhtml+xml' href='Ps.19.footnotes.html'></item>
+<item id='Ps.20' media-type='application/xhtml+xml' href='Ps.20.html'></item>
+<item id='Ps.20.footnotes' media-type='application/xhtml+xml' href='Ps.20.footnotes.html'></item>
+<item id='Ps.21' media-type='application/xhtml+xml' href='Ps.21.html'></item>
+<item id='Ps.21.footnotes' media-type='application/xhtml+xml' href='Ps.21.footnotes.html'></item>
+<item id='Ps.22' media-type='application/xhtml+xml' href='Ps.22.html'></item>
+<item id='Ps.22.footnotes' media-type='application/xhtml+xml' href='Ps.22.footnotes.html'></item>
+<item id='Ps.23' media-type='application/xhtml+xml' href='Ps.23.html'></item>
+<item id='Ps.23.footnotes' media-type='application/xhtml+xml' href='Ps.23.footnotes.html'></item>
+<item id='Ps.24' media-type='application/xhtml+xml' href='Ps.24.html'></item>
+<item id='Ps.24.footnotes' media-type='application/xhtml+xml' href='Ps.24.footnotes.html'></item>
+<item id='Ps.25' media-type='application/xhtml+xml' href='Ps.25.html'></item>
+<item id='Ps.25.footnotes' media-type='application/xhtml+xml' href='Ps.25.footnotes.html'></item>
+<item id='Ps.26' media-type='application/xhtml+xml' href='Ps.26.html'></item>
+<item id='Ps.26.footnotes' media-type='application/xhtml+xml' href='Ps.26.footnotes.html'></item>
+<item id='Ps.27' media-type='application/xhtml+xml' href='Ps.27.html'></item>
+<item id='Ps.27.footnotes' media-type='application/xhtml+xml' href='Ps.27.footnotes.html'></item>
+<item id='Ps.28' media-type='application/xhtml+xml' href='Ps.28.html'></item>
+<item id='Ps.28.footnotes' media-type='application/xhtml+xml' href='Ps.28.footnotes.html'></item>
+<item id='Ps.29' media-type='application/xhtml+xml' href='Ps.29.html'></item>
+<item id='Ps.29.footnotes' media-type='application/xhtml+xml' href='Ps.29.footnotes.html'></item>
+<item id='Ps.30' media-type='application/xhtml+xml' href='Ps.30.html'></item>
+<item id='Ps.30.footnotes' media-type='application/xhtml+xml' href='Ps.30.footnotes.html'></item>
+<item id='Ps.31' media-type='application/xhtml+xml' href='Ps.31.html'></item>
+<item id='Ps.31.footnotes' media-type='application/xhtml+xml' href='Ps.31.footnotes.html'></item>
+<item id='Ps.32' media-type='application/xhtml+xml' href='Ps.32.html'></item>
+<item id='Ps.32.footnotes' media-type='application/xhtml+xml' href='Ps.32.footnotes.html'></item>
+<item id='Ps.33' media-type='application/xhtml+xml' href='Ps.33.html'></item>
+<item id='Ps.33.footnotes' media-type='application/xhtml+xml' href='Ps.33.footnotes.html'></item>
+<item id='Ps.34' media-type='application/xhtml+xml' href='Ps.34.html'></item>
+<item id='Ps.34.footnotes' media-type='application/xhtml+xml' href='Ps.34.footnotes.html'></item>
+<item id='Ps.35' media-type='application/xhtml+xml' href='Ps.35.html'></item>
+<item id='Ps.35.footnotes' media-type='application/xhtml+xml' href='Ps.35.footnotes.html'></item>
+<item id='Ps.36' media-type='application/xhtml+xml' href='Ps.36.html'></item>
+<item id='Ps.36.footnotes' media-type='application/xhtml+xml' href='Ps.36.footnotes.html'></item>
+<item id='Ps.37' media-type='application/xhtml+xml' href='Ps.37.html'></item>
+<item id='Ps.37.footnotes' media-type='application/xhtml+xml' href='Ps.37.footnotes.html'></item>
+<item id='Ps.38' media-type='application/xhtml+xml' href='Ps.38.html'></item>
+<item id='Ps.38.footnotes' media-type='application/xhtml+xml' href='Ps.38.footnotes.html'></item>
+<item id='Ps.39' media-type='application/xhtml+xml' href='Ps.39.html'></item>
+<item id='Ps.39.footnotes' media-type='application/xhtml+xml' href='Ps.39.footnotes.html'></item>
+<item id='Ps.40' media-type='application/xhtml+xml' href='Ps.40.html'></item>
+<item id='Ps.40.footnotes' media-type='application/xhtml+xml' href='Ps.40.footnotes.html'></item>
+<item id='Ps.41' media-type='application/xhtml+xml' href='Ps.41.html'></item>
+<item id='Ps.41.footnotes' media-type='application/xhtml+xml' href='Ps.41.footnotes.html'></item>
+<item id='Ps.42' media-type='application/xhtml+xml' href='Ps.42.html'></item>
+<item id='Ps.42.footnotes' media-type='application/xhtml+xml' href='Ps.42.footnotes.html'></item>
+<item id='Ps.43' media-type='application/xhtml+xml' href='Ps.43.html'></item>
+<item id='Ps.43.footnotes' media-type='application/xhtml+xml' href='Ps.43.footnotes.html'></item>
+<item id='Ps.44' media-type='application/xhtml+xml' href='Ps.44.html'></item>
+<item id='Ps.44.footnotes' media-type='application/xhtml+xml' href='Ps.44.footnotes.html'></item>
+<item id='Ps.45' media-type='application/xhtml+xml' href='Ps.45.html'></item>
+<item id='Ps.45.footnotes' media-type='application/xhtml+xml' href='Ps.45.footnotes.html'></item>
+<item id='Ps.46' media-type='application/xhtml+xml' href='Ps.46.html'></item>
+<item id='Ps.46.footnotes' media-type='application/xhtml+xml' href='Ps.46.footnotes.html'></item>
+<item id='Ps.47' media-type='application/xhtml+xml' href='Ps.47.html'></item>
+<item id='Ps.47.footnotes' media-type='application/xhtml+xml' href='Ps.47.footnotes.html'></item>
+<item id='Ps.48' media-type='application/xhtml+xml' href='Ps.48.html'></item>
+<item id='Ps.48.footnotes' media-type='application/xhtml+xml' href='Ps.48.footnotes.html'></item>
+<item id='Ps.49' media-type='application/xhtml+xml' href='Ps.49.html'></item>
+<item id='Ps.49.footnotes' media-type='application/xhtml+xml' href='Ps.49.footnotes.html'></item>
+<item id='Ps.50' media-type='application/xhtml+xml' href='Ps.50.html'></item>
+<item id='Ps.50.footnotes' media-type='application/xhtml+xml' href='Ps.50.footnotes.html'></item>
+<item id='Ps.51' media-type='application/xhtml+xml' href='Ps.51.html'></item>
+<item id='Ps.51.footnotes' media-type='application/xhtml+xml' href='Ps.51.footnotes.html'></item>
+<item id='Ps.52' media-type='application/xhtml+xml' href='Ps.52.html'></item>
+<item id='Ps.52.footnotes' media-type='application/xhtml+xml' href='Ps.52.footnotes.html'></item>
+<item id='Ps.53' media-type='application/xhtml+xml' href='Ps.53.html'></item>
+<item id='Ps.53.footnotes' media-type='application/xhtml+xml' href='Ps.53.footnotes.html'></item>
+<item id='Ps.54' media-type='application/xhtml+xml' href='Ps.54.html'></item>
+<item id='Ps.54.footnotes' media-type='application/xhtml+xml' href='Ps.54.footnotes.html'></item>
+<item id='Ps.55' media-type='application/xhtml+xml' href='Ps.55.html'></item>
+<item id='Ps.55.footnotes' media-type='application/xhtml+xml' href='Ps.55.footnotes.html'></item>
+<item id='Ps.56' media-type='application/xhtml+xml' href='Ps.56.html'></item>
+<item id='Ps.56.footnotes' media-type='application/xhtml+xml' href='Ps.56.footnotes.html'></item>
+<item id='Ps.57' media-type='application/xhtml+xml' href='Ps.57.html'></item>
+<item id='Ps.57.footnotes' media-type='application/xhtml+xml' href='Ps.57.footnotes.html'></item>
+<item id='Ps.58' media-type='application/xhtml+xml' href='Ps.58.html'></item>
+<item id='Ps.58.footnotes' media-type='application/xhtml+xml' href='Ps.58.footnotes.html'></item>
+<item id='Ps.59' media-type='application/xhtml+xml' href='Ps.59.html'></item>
+<item id='Ps.59.footnotes' media-type='application/xhtml+xml' href='Ps.59.footnotes.html'></item>
+<item id='Ps.60' media-type='application/xhtml+xml' href='Ps.60.html'></item>
+<item id='Ps.60.footnotes' media-type='application/xhtml+xml' href='Ps.60.footnotes.html'></item>
+<item id='Ps.61' media-type='application/xhtml+xml' href='Ps.61.html'></item>
+<item id='Ps.61.footnotes' media-type='application/xhtml+xml' href='Ps.61.footnotes.html'></item>
+<item id='Ps.62' media-type='application/xhtml+xml' href='Ps.62.html'></item>
+<item id='Ps.62.footnotes' media-type='application/xhtml+xml' href='Ps.62.footnotes.html'></item>
+<item id='Ps.63' media-type='application/xhtml+xml' href='Ps.63.html'></item>
+<item id='Ps.63.footnotes' media-type='application/xhtml+xml' href='Ps.63.footnotes.html'></item>
+<item id='Ps.64' media-type='application/xhtml+xml' href='Ps.64.html'></item>
+<item id='Ps.64.footnotes' media-type='application/xhtml+xml' href='Ps.64.footnotes.html'></item>
+<item id='Ps.65' media-type='application/xhtml+xml' href='Ps.65.html'></item>
+<item id='Ps.65.footnotes' media-type='application/xhtml+xml' href='Ps.65.footnotes.html'></item>
+<item id='Ps.66' media-type='application/xhtml+xml' href='Ps.66.html'></item>
+<item id='Ps.66.footnotes' media-type='application/xhtml+xml' href='Ps.66.footnotes.html'></item>
+<item id='Ps.67' media-type='application/xhtml+xml' href='Ps.67.html'></item>
+<item id='Ps.67.footnotes' media-type='application/xhtml+xml' href='Ps.67.footnotes.html'></item>
+<item id='Ps.68' media-type='application/xhtml+xml' href='Ps.68.html'></item>
+<item id='Ps.68.footnotes' media-type='application/xhtml+xml' href='Ps.68.footnotes.html'></item>
+<item id='Ps.69' media-type='application/xhtml+xml' href='Ps.69.html'></item>
+<item id='Ps.69.footnotes' media-type='application/xhtml+xml' href='Ps.69.footnotes.html'></item>
+<item id='Ps.70' media-type='application/xhtml+xml' href='Ps.70.html'></item>
+<item id='Ps.70.footnotes' media-type='application/xhtml+xml' href='Ps.70.footnotes.html'></item>
+<item id='Ps.71' media-type='application/xhtml+xml' href='Ps.71.html'></item>
+<item id='Ps.71.footnotes' media-type='application/xhtml+xml' href='Ps.71.footnotes.html'></item>
+<item id='Ps.72' media-type='application/xhtml+xml' href='Ps.72.html'></item>
+<item id='Ps.72.footnotes' media-type='application/xhtml+xml' href='Ps.72.footnotes.html'></item>
+<item id='Ps.73' media-type='application/xhtml+xml' href='Ps.73.html'></item>
+<item id='Ps.73.footnotes' media-type='application/xhtml+xml' href='Ps.73.footnotes.html'></item>
+<item id='Ps.74' media-type='application/xhtml+xml' href='Ps.74.html'></item>
+<item id='Ps.74.footnotes' media-type='application/xhtml+xml' href='Ps.74.footnotes.html'></item>
+<item id='Ps.75' media-type='application/xhtml+xml' href='Ps.75.html'></item>
+<item id='Ps.75.footnotes' media-type='application/xhtml+xml' href='Ps.75.footnotes.html'></item>
+<item id='Ps.76' media-type='application/xhtml+xml' href='Ps.76.html'></item>
+<item id='Ps.76.footnotes' media-type='application/xhtml+xml' href='Ps.76.footnotes.html'></item>
+<item id='Ps.77' media-type='application/xhtml+xml' href='Ps.77.html'></item>
+<item id='Ps.77.footnotes' media-type='application/xhtml+xml' href='Ps.77.footnotes.html'></item>
+<item id='Ps.78' media-type='application/xhtml+xml' href='Ps.78.html'></item>
+<item id='Ps.78.footnotes' media-type='application/xhtml+xml' href='Ps.78.footnotes.html'></item>
+<item id='Ps.79' media-type='application/xhtml+xml' href='Ps.79.html'></item>
+<item id='Ps.79.footnotes' media-type='application/xhtml+xml' href='Ps.79.footnotes.html'></item>
+<item id='Ps.80' media-type='application/xhtml+xml' href='Ps.80.html'></item>
+<item id='Ps.80.footnotes' media-type='application/xhtml+xml' href='Ps.80.footnotes.html'></item>
+<item id='Ps.81' media-type='application/xhtml+xml' href='Ps.81.html'></item>
+<item id='Ps.81.footnotes' media-type='application/xhtml+xml' href='Ps.81.footnotes.html'></item>
+<item id='Ps.82' media-type='application/xhtml+xml' href='Ps.82.html'></item>
+<item id='Ps.82.footnotes' media-type='application/xhtml+xml' href='Ps.82.footnotes.html'></item>
+<item id='Ps.83' media-type='application/xhtml+xml' href='Ps.83.html'></item>
+<item id='Ps.83.footnotes' media-type='application/xhtml+xml' href='Ps.83.footnotes.html'></item>
+<item id='Ps.84' media-type='application/xhtml+xml' href='Ps.84.html'></item>
+<item id='Ps.84.footnotes' media-type='application/xhtml+xml' href='Ps.84.footnotes.html'></item>
+<item id='Ps.85' media-type='application/xhtml+xml' href='Ps.85.html'></item>
+<item id='Ps.85.footnotes' media-type='application/xhtml+xml' href='Ps.85.footnotes.html'></item>
+<item id='Ps.86' media-type='application/xhtml+xml' href='Ps.86.html'></item>
+<item id='Ps.86.footnotes' media-type='application/xhtml+xml' href='Ps.86.footnotes.html'></item>
+<item id='Ps.87' media-type='application/xhtml+xml' href='Ps.87.html'></item>
+<item id='Ps.87.footnotes' media-type='application/xhtml+xml' href='Ps.87.footnotes.html'></item>
+<item id='Ps.88' media-type='application/xhtml+xml' href='Ps.88.html'></item>
+<item id='Ps.88.footnotes' media-type='application/xhtml+xml' href='Ps.88.footnotes.html'></item>
+<item id='Ps.89' media-type='application/xhtml+xml' href='Ps.89.html'></item>
+<item id='Ps.89.footnotes' media-type='application/xhtml+xml' href='Ps.89.footnotes.html'></item>
+<item id='Ps.90' media-type='application/xhtml+xml' href='Ps.90.html'></item>
+<item id='Ps.90.footnotes' media-type='application/xhtml+xml' href='Ps.90.footnotes.html'></item>
+<item id='Ps.91' media-type='application/xhtml+xml' href='Ps.91.html'></item>
+<item id='Ps.91.footnotes' media-type='application/xhtml+xml' href='Ps.91.footnotes.html'></item>
+<item id='Ps.92' media-type='application/xhtml+xml' href='Ps.92.html'></item>
+<item id='Ps.92.footnotes' media-type='application/xhtml+xml' href='Ps.92.footnotes.html'></item>
+<item id='Ps.93' media-type='application/xhtml+xml' href='Ps.93.html'></item>
+<item id='Ps.93.footnotes' media-type='application/xhtml+xml' href='Ps.93.footnotes.html'></item>
+<item id='Ps.94' media-type='application/xhtml+xml' href='Ps.94.html'></item>
+<item id='Ps.94.footnotes' media-type='application/xhtml+xml' href='Ps.94.footnotes.html'></item>
+<item id='Ps.95' media-type='application/xhtml+xml' href='Ps.95.html'></item>
+<item id='Ps.95.footnotes' media-type='application/xhtml+xml' href='Ps.95.footnotes.html'></item>
+<item id='Ps.96' media-type='application/xhtml+xml' href='Ps.96.html'></item>
+<item id='Ps.96.footnotes' media-type='application/xhtml+xml' href='Ps.96.footnotes.html'></item>
+<item id='Ps.97' media-type='application/xhtml+xml' href='Ps.97.html'></item>
+<item id='Ps.97.footnotes' media-type='application/xhtml+xml' href='Ps.97.footnotes.html'></item>
+<item id='Ps.98' media-type='application/xhtml+xml' href='Ps.98.html'></item>
+<item id='Ps.98.footnotes' media-type='application/xhtml+xml' href='Ps.98.footnotes.html'></item>
+<item id='Ps.99' media-type='application/xhtml+xml' href='Ps.99.html'></item>
+<item id='Ps.99.footnotes' media-type='application/xhtml+xml' href='Ps.99.footnotes.html'></item>
+<item id='Ps.100' media-type='application/xhtml+xml' href='Ps.100.html'></item>
+<item id='Ps.100.footnotes' media-type='application/xhtml+xml' href='Ps.100.footnotes.html'></item>
+<item id='Ps.101' media-type='application/xhtml+xml' href='Ps.101.html'></item>
+<item id='Ps.101.footnotes' media-type='application/xhtml+xml' href='Ps.101.footnotes.html'></item>
+<item id='Ps.102' media-type='application/xhtml+xml' href='Ps.102.html'></item>
+<item id='Ps.102.footnotes' media-type='application/xhtml+xml' href='Ps.102.footnotes.html'></item>
+<item id='Ps.103' media-type='application/xhtml+xml' href='Ps.103.html'></item>
+<item id='Ps.103.footnotes' media-type='application/xhtml+xml' href='Ps.103.footnotes.html'></item>
+<item id='Ps.104' media-type='application/xhtml+xml' href='Ps.104.html'></item>
+<item id='Ps.104.footnotes' media-type='application/xhtml+xml' href='Ps.104.footnotes.html'></item>
+<item id='Ps.105' media-type='application/xhtml+xml' href='Ps.105.html'></item>
+<item id='Ps.105.footnotes' media-type='application/xhtml+xml' href='Ps.105.footnotes.html'></item>
+<item id='Ps.106' media-type='application/xhtml+xml' href='Ps.106.html'></item>
+<item id='Ps.106.footnotes' media-type='application/xhtml+xml' href='Ps.106.footnotes.html'></item>
+<item id='Ps.107' media-type='application/xhtml+xml' href='Ps.107.html'></item>
+<item id='Ps.107.footnotes' media-type='application/xhtml+xml' href='Ps.107.footnotes.html'></item>
+<item id='Ps.108' media-type='application/xhtml+xml' href='Ps.108.html'></item>
+<item id='Ps.108.footnotes' media-type='application/xhtml+xml' href='Ps.108.footnotes.html'></item>
+<item id='Ps.109' media-type='application/xhtml+xml' href='Ps.109.html'></item>
+<item id='Ps.109.footnotes' media-type='application/xhtml+xml' href='Ps.109.footnotes.html'></item>
+<item id='Ps.110' media-type='application/xhtml+xml' href='Ps.110.html'></item>
+<item id='Ps.110.footnotes' media-type='application/xhtml+xml' href='Ps.110.footnotes.html'></item>
+<item id='Ps.111' media-type='application/xhtml+xml' href='Ps.111.html'></item>
+<item id='Ps.111.footnotes' media-type='application/xhtml+xml' href='Ps.111.footnotes.html'></item>
+<item id='Ps.112' media-type='application/xhtml+xml' href='Ps.112.html'></item>
+<item id='Ps.112.footnotes' media-type='application/xhtml+xml' href='Ps.112.footnotes.html'></item>
+<item id='Ps.113' media-type='application/xhtml+xml' href='Ps.113.html'></item>
+<item id='Ps.113.footnotes' media-type='application/xhtml+xml' href='Ps.113.footnotes.html'></item>
+<item id='Ps.114' media-type='application/xhtml+xml' href='Ps.114.html'></item>
+<item id='Ps.114.footnotes' media-type='application/xhtml+xml' href='Ps.114.footnotes.html'></item>
+<item id='Ps.115' media-type='application/xhtml+xml' href='Ps.115.html'></item>
+<item id='Ps.115.footnotes' media-type='application/xhtml+xml' href='Ps.115.footnotes.html'></item>
+<item id='Ps.116' media-type='application/xhtml+xml' href='Ps.116.html'></item>
+<item id='Ps.116.footnotes' media-type='application/xhtml+xml' href='Ps.116.footnotes.html'></item>
+<item id='Ps.117' media-type='application/xhtml+xml' href='Ps.117.html'></item>
+<item id='Ps.117.footnotes' media-type='application/xhtml+xml' href='Ps.117.footnotes.html'></item>
+<item id='Ps.118' media-type='application/xhtml+xml' href='Ps.118.html'></item>
+<item id='Ps.118.footnotes' media-type='application/xhtml+xml' href='Ps.118.footnotes.html'></item>
+<item id='Ps.119' media-type='application/xhtml+xml' href='Ps.119.html'></item>
+<item id='Ps.119.footnotes' media-type='application/xhtml+xml' href='Ps.119.footnotes.html'></item>
+<item id='Ps.120' media-type='application/xhtml+xml' href='Ps.120.html'></item>
+<item id='Ps.120.footnotes' media-type='application/xhtml+xml' href='Ps.120.footnotes.html'></item>
+<item id='Ps.121' media-type='application/xhtml+xml' href='Ps.121.html'></item>
+<item id='Ps.121.footnotes' media-type='application/xhtml+xml' href='Ps.121.footnotes.html'></item>
+<item id='Ps.122' media-type='application/xhtml+xml' href='Ps.122.html'></item>
+<item id='Ps.122.footnotes' media-type='application/xhtml+xml' href='Ps.122.footnotes.html'></item>
+<item id='Ps.123' media-type='application/xhtml+xml' href='Ps.123.html'></item>
+<item id='Ps.123.footnotes' media-type='application/xhtml+xml' href='Ps.123.footnotes.html'></item>
+<item id='Ps.124' media-type='application/xhtml+xml' href='Ps.124.html'></item>
+<item id='Ps.124.footnotes' media-type='application/xhtml+xml' href='Ps.124.footnotes.html'></item>
+<item id='Ps.125' media-type='application/xhtml+xml' href='Ps.125.html'></item>
+<item id='Ps.125.footnotes' media-type='application/xhtml+xml' href='Ps.125.footnotes.html'></item>
+<item id='Ps.126' media-type='application/xhtml+xml' href='Ps.126.html'></item>
+<item id='Ps.126.footnotes' media-type='application/xhtml+xml' href='Ps.126.footnotes.html'></item>
+<item id='Ps.127' media-type='application/xhtml+xml' href='Ps.127.html'></item>
+<item id='Ps.127.footnotes' media-type='application/xhtml+xml' href='Ps.127.footnotes.html'></item>
+<item id='Ps.128' media-type='application/xhtml+xml' href='Ps.128.html'></item>
+<item id='Ps.128.footnotes' media-type='application/xhtml+xml' href='Ps.128.footnotes.html'></item>
+<item id='Ps.129' media-type='application/xhtml+xml' href='Ps.129.html'></item>
+<item id='Ps.129.footnotes' media-type='application/xhtml+xml' href='Ps.129.footnotes.html'></item>
+<item id='Ps.130' media-type='application/xhtml+xml' href='Ps.130.html'></item>
+<item id='Ps.130.footnotes' media-type='application/xhtml+xml' href='Ps.130.footnotes.html'></item>
+<item id='Ps.131' media-type='application/xhtml+xml' href='Ps.131.html'></item>
+<item id='Ps.131.footnotes' media-type='application/xhtml+xml' href='Ps.131.footnotes.html'></item>
+<item id='Ps.132' media-type='application/xhtml+xml' href='Ps.132.html'></item>
+<item id='Ps.132.footnotes' media-type='application/xhtml+xml' href='Ps.132.footnotes.html'></item>
+<item id='Ps.133' media-type='application/xhtml+xml' href='Ps.133.html'></item>
+<item id='Ps.133.footnotes' media-type='application/xhtml+xml' href='Ps.133.footnotes.html'></item>
+<item id='Ps.134' media-type='application/xhtml+xml' href='Ps.134.html'></item>
+<item id='Ps.134.footnotes' media-type='application/xhtml+xml' href='Ps.134.footnotes.html'></item>
+<item id='Ps.135' media-type='application/xhtml+xml' href='Ps.135.html'></item>
+<item id='Ps.135.footnotes' media-type='application/xhtml+xml' href='Ps.135.footnotes.html'></item>
+<item id='Ps.136' media-type='application/xhtml+xml' href='Ps.136.html'></item>
+<item id='Ps.136.footnotes' media-type='application/xhtml+xml' href='Ps.136.footnotes.html'></item>
+<item id='Ps.137' media-type='application/xhtml+xml' href='Ps.137.html'></item>
+<item id='Ps.137.footnotes' media-type='application/xhtml+xml' href='Ps.137.footnotes.html'></item>
+<item id='Ps.138' media-type='application/xhtml+xml' href='Ps.138.html'></item>
+<item id='Ps.138.footnotes' media-type='application/xhtml+xml' href='Ps.138.footnotes.html'></item>
+<item id='Ps.139' media-type='application/xhtml+xml' href='Ps.139.html'></item>
+<item id='Ps.139.footnotes' media-type='application/xhtml+xml' href='Ps.139.footnotes.html'></item>
+<item id='Ps.140' media-type='application/xhtml+xml' href='Ps.140.html'></item>
+<item id='Ps.140.footnotes' media-type='application/xhtml+xml' href='Ps.140.footnotes.html'></item>
+<item id='Ps.141' media-type='application/xhtml+xml' href='Ps.141.html'></item>
+<item id='Ps.141.footnotes' media-type='application/xhtml+xml' href='Ps.141.footnotes.html'></item>
+<item id='Ps.142' media-type='application/xhtml+xml' href='Ps.142.html'></item>
+<item id='Ps.142.footnotes' media-type='application/xhtml+xml' href='Ps.142.footnotes.html'></item>
+<item id='Ps.143' media-type='application/xhtml+xml' href='Ps.143.html'></item>
+<item id='Ps.143.footnotes' media-type='application/xhtml+xml' href='Ps.143.footnotes.html'></item>
+<item id='Ps.144' media-type='application/xhtml+xml' href='Ps.144.html'></item>
+<item id='Ps.144.footnotes' media-type='application/xhtml+xml' href='Ps.144.footnotes.html'></item>
+<item id='Ps.145' media-type='application/xhtml+xml' href='Ps.145.html'></item>
+<item id='Ps.145.footnotes' media-type='application/xhtml+xml' href='Ps.145.footnotes.html'></item>
+<item id='Ps.146' media-type='application/xhtml+xml' href='Ps.146.html'></item>
+<item id='Ps.146.footnotes' media-type='application/xhtml+xml' href='Ps.146.footnotes.html'></item>
+<item id='Ps.147' media-type='application/xhtml+xml' href='Ps.147.html'></item>
+<item id='Ps.147.footnotes' media-type='application/xhtml+xml' href='Ps.147.footnotes.html'></item>
+<item id='Ps.148' media-type='application/xhtml+xml' href='Ps.148.html'></item>
+<item id='Ps.148.footnotes' media-type='application/xhtml+xml' href='Ps.148.footnotes.html'></item>
+<item id='Ps.149' media-type='application/xhtml+xml' href='Ps.149.html'></item>
+<item id='Ps.149.footnotes' media-type='application/xhtml+xml' href='Ps.149.footnotes.html'></item>
+<item id='Ps.150' media-type='application/xhtml+xml' href='Ps.150.html'></item>
+<item id='Ps.150.footnotes' media-type='application/xhtml+xml' href='Ps.150.footnotes.html'></item>
+	<item id='Prov.1' media-type='application/xhtml+xml' href='Prov.1.html'></item>
+	<item id='Prov.1.footnotes' media-type='application/xhtml+xml' href='Prov.1.footnotes.html'></item>
+	<item id='Prov.2' media-type='application/xhtml+xml' href='Prov.2.html'></item>
+	<item id='Prov.2.footnotes' media-type='application/xhtml+xml' href='Prov.2.footnotes.html'></item>
+	<item id='Prov.3' media-type='application/xhtml+xml' href='Prov.3.html'></item>
+	<item id='Prov.3.footnotes' media-type='application/xhtml+xml' href='Prov.3.footnotes.html'></item>
+	<item id='Prov.4' media-type='application/xhtml+xml' href='Prov.4.html'></item>
+	<item id='Prov.4.footnotes' media-type='application/xhtml+xml' href='Prov.4.footnotes.html'></item>
+	<item id='Prov.5' media-type='application/xhtml+xml' href='Prov.5.html'></item>
+	<item id='Prov.5.footnotes' media-type='application/xhtml+xml' href='Prov.5.footnotes.html'></item>
+	<item id='Prov.6' media-type='application/xhtml+xml' href='Prov.6.html'></item>
+	<item id='Prov.6.footnotes' media-type='application/xhtml+xml' href='Prov.6.footnotes.html'></item>
+	<item id='Prov.7' media-type='application/xhtml+xml' href='Prov.7.html'></item>
+	<item id='Prov.7.footnotes' media-type='application/xhtml+xml' href='Prov.7.footnotes.html'></item>
+	<item id='Prov.8' media-type='application/xhtml+xml' href='Prov.8.html'></item>
+	<item id='Prov.8.footnotes' media-type='application/xhtml+xml' href='Prov.8.footnotes.html'></item>
+	<item id='Prov.9' media-type='application/xhtml+xml' href='Prov.9.html'></item>
+	<item id='Prov.9.footnotes' media-type='application/xhtml+xml' href='Prov.9.footnotes.html'></item>
+	<item id='Prov.10' media-type='application/xhtml+xml' href='Prov.10.html'></item>
+	<item id='Prov.10.footnotes' media-type='application/xhtml+xml' href='Prov.10.footnotes.html'></item>
+	<item id='Prov.11' media-type='application/xhtml+xml' href='Prov.11.html'></item>
+	<item id='Prov.11.footnotes' media-type='application/xhtml+xml' href='Prov.11.footnotes.html'></item>
+	<item id='Prov.12' media-type='application/xhtml+xml' href='Prov.12.html'></item>
+	<item id='Prov.12.footnotes' media-type='application/xhtml+xml' href='Prov.12.footnotes.html'></item>
+	<item id='Prov.13' media-type='application/xhtml+xml' href='Prov.13.html'></item>
+	<item id='Prov.13.footnotes' media-type='application/xhtml+xml' href='Prov.13.footnotes.html'></item>
+	<item id='Prov.14' media-type='application/xhtml+xml' href='Prov.14.html'></item>
+	<item id='Prov.14.footnotes' media-type='application/xhtml+xml' href='Prov.14.footnotes.html'></item>
+	<item id='Prov.15' media-type='application/xhtml+xml' href='Prov.15.html'></item>
+	<item id='Prov.15.footnotes' media-type='application/xhtml+xml' href='Prov.15.footnotes.html'></item>
+	<item id='Prov.16' media-type='application/xhtml+xml' href='Prov.16.html'></item>
+	<item id='Prov.16.footnotes' media-type='application/xhtml+xml' href='Prov.16.footnotes.html'></item>
+	<item id='Prov.17' media-type='application/xhtml+xml' href='Prov.17.html'></item>
+	<item id='Prov.17.footnotes' media-type='application/xhtml+xml' href='Prov.17.footnotes.html'></item>
+	<item id='Prov.18' media-type='application/xhtml+xml' href='Prov.18.html'></item>
+	<item id='Prov.18.footnotes' media-type='application/xhtml+xml' href='Prov.18.footnotes.html'></item>
+	<item id='Prov.19' media-type='application/xhtml+xml' href='Prov.19.html'></item>
+	<item id='Prov.19.footnotes' media-type='application/xhtml+xml' href='Prov.19.footnotes.html'></item>
+	<item id='Prov.20' media-type='application/xhtml+xml' href='Prov.20.html'></item>
+	<item id='Prov.20.footnotes' media-type='application/xhtml+xml' href='Prov.20.footnotes.html'></item>
+	<item id='Prov.21' media-type='application/xhtml+xml' href='Prov.21.html'></item>
+	<item id='Prov.21.footnotes' media-type='application/xhtml+xml' href='Prov.21.footnotes.html'></item>
+	<item id='Prov.22' media-type='application/xhtml+xml' href='Prov.22.html'></item>
+	<item id='Prov.22.footnotes' media-type='application/xhtml+xml' href='Prov.22.footnotes.html'></item>
+	<item id='Prov.23' media-type='application/xhtml+xml' href='Prov.23.html'></item>
+	<item id='Prov.23.footnotes' media-type='application/xhtml+xml' href='Prov.23.footnotes.html'></item>
+	<item id='Prov.24' media-type='application/xhtml+xml' href='Prov.24.html'></item>
+	<item id='Prov.24.footnotes' media-type='application/xhtml+xml' href='Prov.24.footnotes.html'></item>
+	<item id='Prov.25' media-type='application/xhtml+xml' href='Prov.25.html'></item>
+	<item id='Prov.25.footnotes' media-type='application/xhtml+xml' href='Prov.25.footnotes.html'></item>
+	<item id='Prov.26' media-type='application/xhtml+xml' href='Prov.26.html'></item>
+	<item id='Prov.26.footnotes' media-type='application/xhtml+xml' href='Prov.26.footnotes.html'></item>
+	<item id='Prov.27' media-type='application/xhtml+xml' href='Prov.27.html'></item>
+	<item id='Prov.27.footnotes' media-type='application/xhtml+xml' href='Prov.27.footnotes.html'></item>
+	<item id='Prov.28' media-type='application/xhtml+xml' href='Prov.28.html'></item>
+	<item id='Prov.28.footnotes' media-type='application/xhtml+xml' href='Prov.28.footnotes.html'></item>
+	<item id='Prov.29' media-type='application/xhtml+xml' href='Prov.29.html'></item>
+	<item id='Prov.29.footnotes' media-type='application/xhtml+xml' href='Prov.29.footnotes.html'></item>
+	<item id='Prov.30' media-type='application/xhtml+xml' href='Prov.30.html'></item>
+	<item id='Prov.30.footnotes' media-type='application/xhtml+xml' href='Prov.30.footnotes.html'></item>
+	<item id='Prov.31' media-type='application/xhtml+xml' href='Prov.31.html'></item>
+	<item id='Prov.31.footnotes' media-type='application/xhtml+xml' href='Prov.31.footnotes.html'></item>
 	<item id="StrongsHebrew" media-type="application/xhtml+xml" href="StrongsHebrew.html"></item>
 
-	
-  <!-- table of contents [mandatory] -->
+	<!-- table of contents [mandatory] -->
 	<item id="My_Table_of_Contents" media-type="application/x-dtbncx+xml" href="KUG.ncx"/>
-  
-  <!-- cover image [mandatory] -->
-  <item id="My_Cover" media-type="image/gif" href="GraphicsWelcome/WImage-cover.gif"/>
+
+	<!-- cover image [mandatory] -->
+	<item id="My_Cover" media-type="image/gif" href="GraphicsWelcome/WImage-cover.gif"/>
 </manifest>
 
 <!--
@@ -119,32 +566,478 @@
 	or more itemref elements. Each itemref references an document designated
 	in the manifest. The order of the itemref elements organizes the associated content
 	files into the linear reading order of the publication.
-	
+
 	The toc attribute refers to the id ref of the NCX file specified in the manifest.
-	
+
 	For detailed info visit: 
 		http://www.idpf.org/2007/opf/OPF_2.0_final_spec.html#Section2.4
 		http://www.niso.org/workrooms/daisy/Z39-86-2005.html#NCX
 -->
-	
+
 <spine toc="My_Table_of_Contents">
-  <!-- the spine defines the linear reading order of the book -->
-	<itemref idref="item1"/>
-	<itemref idref="Genesis1"/>
-	<itemref idref="Genesis2"/>
-	<itemref idref="Genesis2"/>
-	<itemref idref="Genesis2"/>
-	<itemref idref="Genesis2"/>
-	<itemref idref="Psalms1"/>
-	<itemref idref="Psalms2"/>
-	<itemref idref="Psalms3"/>
-	<itemref idref="Psalms4"/>
-	<itemref idref="Psalms5"/>
-	<itemref idref="Proverbs1"/>
-	<itemref idref="Proverbs2"/>
-	<itemref idref="Proverbs3"/>
-	<itemref idref="Proverbs4"/>
-	<itemref idref="Proverbs5"/>
+	<!-- the spine defines the linear reading order of the book -->
+<itemref idref='Gen.1' />
+<itemref idref='Gen.1.footnotes' />
+<itemref idref='Gen.2' />
+<itemref idref='Gen.2.footnotes' />
+<itemref idref='Gen.3' />
+<itemref idref='Gen.3.footnotes' />
+<itemref idref='Gen.4' />
+<itemref idref='Gen.4.footnotes' />
+<itemref idref='Gen.5' />
+<itemref idref='Gen.5.footnotes' />
+<itemref idref='Gen.6' />
+<itemref idref='Gen.6.footnotes' />
+<itemref idref='Gen.7' />
+<itemref idref='Gen.7.footnotes' />
+<itemref idref='Gen.8' />
+<itemref idref='Gen.8.footnotes' />
+<itemref idref='Gen.9' />
+<itemref idref='Gen.9.footnotes' />
+<itemref idref='Gen.10' />
+<itemref idref='Gen.10.footnotes' />
+<itemref idref='Gen.11' />
+<itemref idref='Gen.11.footnotes' />
+<itemref idref='Gen.12' />
+<itemref idref='Gen.12.footnotes' />
+<itemref idref='Gen.13' />
+<itemref idref='Gen.13.footnotes' />
+<itemref idref='Gen.14' />
+<itemref idref='Gen.14.footnotes' />
+<itemref idref='Gen.15' />
+<itemref idref='Gen.15.footnotes' />
+<itemref idref='Gen.16' />
+<itemref idref='Gen.16.footnotes' />
+<itemref idref='Gen.17' />
+<itemref idref='Gen.17.footnotes' />
+<itemref idref='Gen.18' />
+<itemref idref='Gen.18.footnotes' />
+<itemref idref='Gen.19' />
+<itemref idref='Gen.19.footnotes' />
+<itemref idref='Gen.20' />
+<itemref idref='Gen.20.footnotes' />
+<itemref idref='Gen.21' />
+<itemref idref='Gen.21.footnotes' />
+<itemref idref='Gen.22' />
+<itemref idref='Gen.22.footnotes' />
+<itemref idref='Gen.23' />
+<itemref idref='Gen.23.footnotes' />
+<itemref idref='Gen.24' />
+<itemref idref='Gen.24.footnotes' />
+<itemref idref='Gen.25' />
+<itemref idref='Gen.25.footnotes' />
+<itemref idref='Gen.26' />
+<itemref idref='Gen.26.footnotes' />
+<itemref idref='Gen.27' />
+<itemref idref='Gen.27.footnotes' />
+<itemref idref='Gen.28' />
+<itemref idref='Gen.28.footnotes' />
+<itemref idref='Gen.29' />
+<itemref idref='Gen.29.footnotes' />
+<itemref idref='Gen.30' />
+<itemref idref='Gen.30.footnotes' />
+<itemref idref='Gen.31' />
+<itemref idref='Gen.31.footnotes' />
+<itemref idref='Gen.32' />
+<itemref idref='Gen.32.footnotes' />
+<itemref idref='Gen.33' />
+<itemref idref='Gen.33.footnotes' />
+<itemref idref='Gen.34' />
+<itemref idref='Gen.34.footnotes' />
+<itemref idref='Gen.35' />
+<itemref idref='Gen.35.footnotes' />
+<itemref idref='Gen.36' />
+<itemref idref='Gen.36.footnotes' />
+<itemref idref='Gen.37' />
+<itemref idref='Gen.37.footnotes' />
+<itemref idref='Gen.38' />
+<itemref idref='Gen.38.footnotes' />
+<itemref idref='Gen.39' />
+<itemref idref='Gen.39.footnotes' />
+<itemref idref='Gen.40' />
+<itemref idref='Gen.40.footnotes' />
+<itemref idref='Gen.41' />
+<itemref idref='Gen.41.footnotes' />
+<itemref idref='Gen.42' />
+<itemref idref='Gen.42.footnotes' />
+<itemref idref='Gen.43' />
+<itemref idref='Gen.43.footnotes' />
+<itemref idref='Gen.44' />
+<itemref idref='Gen.44.footnotes' />
+<itemref idref='Gen.45' />
+<itemref idref='Gen.45.footnotes' />
+<itemref idref='Gen.46' />
+<itemref idref='Gen.46.footnotes' />
+<itemref idref='Gen.47' />
+<itemref idref='Gen.47.footnotes' />
+<itemref idref='Gen.48' />
+<itemref idref='Gen.48.footnotes' />
+<itemref idref='Gen.49' />
+<itemref idref='Gen.49.footnotes' />
+<itemref idref='Gen.50' />
+<itemref idref='Gen.50.footnotes' />
+<itemref idref='Ps.1' />
+<itemref idref='Ps.1.footnotes' />
+<itemref idref='Ps.2' />
+<itemref idref='Ps.2.footnotes' />
+<itemref idref='Ps.3' />
+<itemref idref='Ps.3.footnotes' />
+<itemref idref='Ps.4' />
+<itemref idref='Ps.4.footnotes' />
+<itemref idref='Ps.5' />
+<itemref idref='Ps.5.footnotes' />
+<itemref idref='Ps.6' />
+<itemref idref='Ps.6.footnotes' />
+<itemref idref='Ps.7' />
+<itemref idref='Ps.7.footnotes' />
+<itemref idref='Ps.8' />
+<itemref idref='Ps.8.footnotes' />
+<itemref idref='Ps.9' />
+<itemref idref='Ps.9.footnotes' />
+<itemref idref='Ps.10' />
+<itemref idref='Ps.10.footnotes' />
+<itemref idref='Ps.11' />
+<itemref idref='Ps.11.footnotes' />
+<itemref idref='Ps.12' />
+<itemref idref='Ps.12.footnotes' />
+<itemref idref='Ps.13' />
+<itemref idref='Ps.13.footnotes' />
+<itemref idref='Ps.14' />
+<itemref idref='Ps.14.footnotes' />
+<itemref idref='Ps.15' />
+<itemref idref='Ps.15.footnotes' />
+<itemref idref='Ps.16' />
+<itemref idref='Ps.16.footnotes' />
+<itemref idref='Ps.17' />
+<itemref idref='Ps.17.footnotes' />
+<itemref idref='Ps.18' />
+<itemref idref='Ps.18.footnotes' />
+<itemref idref='Ps.19' />
+<itemref idref='Ps.19.footnotes' />
+<itemref idref='Ps.20' />
+<itemref idref='Ps.20.footnotes' />
+<itemref idref='Ps.21' />
+<itemref idref='Ps.21.footnotes' />
+<itemref idref='Ps.22' />
+<itemref idref='Ps.22.footnotes' />
+<itemref idref='Ps.23' />
+<itemref idref='Ps.23.footnotes' />
+<itemref idref='Ps.24' />
+<itemref idref='Ps.24.footnotes' />
+<itemref idref='Ps.25' />
+<itemref idref='Ps.25.footnotes' />
+<itemref idref='Ps.26' />
+<itemref idref='Ps.26.footnotes' />
+<itemref idref='Ps.27' />
+<itemref idref='Ps.27.footnotes' />
+<itemref idref='Ps.28' />
+<itemref idref='Ps.28.footnotes' />
+<itemref idref='Ps.29' />
+<itemref idref='Ps.29.footnotes' />
+<itemref idref='Ps.30' />
+<itemref idref='Ps.30.footnotes' />
+<itemref idref='Ps.31' />
+<itemref idref='Ps.31.footnotes' />
+<itemref idref='Ps.32' />
+<itemref idref='Ps.32.footnotes' />
+<itemref idref='Ps.33' />
+<itemref idref='Ps.33.footnotes' />
+<itemref idref='Ps.34' />
+<itemref idref='Ps.34.footnotes' />
+<itemref idref='Ps.35' />
+<itemref idref='Ps.35.footnotes' />
+<itemref idref='Ps.36' />
+<itemref idref='Ps.36.footnotes' />
+<itemref idref='Ps.37' />
+<itemref idref='Ps.37.footnotes' />
+<itemref idref='Ps.38' />
+<itemref idref='Ps.38.footnotes' />
+<itemref idref='Ps.39' />
+<itemref idref='Ps.39.footnotes' />
+<itemref idref='Ps.40' />
+<itemref idref='Ps.40.footnotes' />
+<itemref idref='Ps.41' />
+<itemref idref='Ps.41.footnotes' />
+<itemref idref='Ps.42' />
+<itemref idref='Ps.42.footnotes' />
+<itemref idref='Ps.43' />
+<itemref idref='Ps.43.footnotes' />
+<itemref idref='Ps.44' />
+<itemref idref='Ps.44.footnotes' />
+<itemref idref='Ps.45' />
+<itemref idref='Ps.45.footnotes' />
+<itemref idref='Ps.46' />
+<itemref idref='Ps.46.footnotes' />
+<itemref idref='Ps.47' />
+<itemref idref='Ps.47.footnotes' />
+<itemref idref='Ps.48' />
+<itemref idref='Ps.48.footnotes' />
+<itemref idref='Ps.49' />
+<itemref idref='Ps.49.footnotes' />
+<itemref idref='Ps.50' />
+<itemref idref='Ps.50.footnotes' />
+<itemref idref='Ps.51' />
+<itemref idref='Ps.51.footnotes' />
+<itemref idref='Ps.52' />
+<itemref idref='Ps.52.footnotes' />
+<itemref idref='Ps.53' />
+<itemref idref='Ps.53.footnotes' />
+<itemref idref='Ps.54' />
+<itemref idref='Ps.54.footnotes' />
+<itemref idref='Ps.55' />
+<itemref idref='Ps.55.footnotes' />
+<itemref idref='Ps.56' />
+<itemref idref='Ps.56.footnotes' />
+<itemref idref='Ps.57' />
+<itemref idref='Ps.57.footnotes' />
+<itemref idref='Ps.58' />
+<itemref idref='Ps.58.footnotes' />
+<itemref idref='Ps.59' />
+<itemref idref='Ps.59.footnotes' />
+<itemref idref='Ps.60' />
+<itemref idref='Ps.60.footnotes' />
+<itemref idref='Ps.61' />
+<itemref idref='Ps.61.footnotes' />
+<itemref idref='Ps.62' />
+<itemref idref='Ps.62.footnotes' />
+<itemref idref='Ps.63' />
+<itemref idref='Ps.63.footnotes' />
+<itemref idref='Ps.64' />
+<itemref idref='Ps.64.footnotes' />
+<itemref idref='Ps.65' />
+<itemref idref='Ps.65.footnotes' />
+<itemref idref='Ps.66' />
+<itemref idref='Ps.66.footnotes' />
+<itemref idref='Ps.67' />
+<itemref idref='Ps.67.footnotes' />
+<itemref idref='Ps.68' />
+<itemref idref='Ps.68.footnotes' />
+<itemref idref='Ps.69' />
+<itemref idref='Ps.69.footnotes' />
+<itemref idref='Ps.70' />
+<itemref idref='Ps.70.footnotes' />
+<itemref idref='Ps.71' />
+<itemref idref='Ps.71.footnotes' />
+<itemref idref='Ps.72' />
+<itemref idref='Ps.72.footnotes' />
+<itemref idref='Ps.73' />
+<itemref idref='Ps.73.footnotes' />
+<itemref idref='Ps.74' />
+<itemref idref='Ps.74.footnotes' />
+<itemref idref='Ps.75' />
+<itemref idref='Ps.75.footnotes' />
+<itemref idref='Ps.76' />
+<itemref idref='Ps.76.footnotes' />
+<itemref idref='Ps.77' />
+<itemref idref='Ps.77.footnotes' />
+<itemref idref='Ps.78' />
+<itemref idref='Ps.78.footnotes' />
+<itemref idref='Ps.79' />
+<itemref idref='Ps.79.footnotes' />
+<itemref idref='Ps.80' />
+<itemref idref='Ps.80.footnotes' />
+<itemref idref='Ps.81' />
+<itemref idref='Ps.81.footnotes' />
+<itemref idref='Ps.82' />
+<itemref idref='Ps.82.footnotes' />
+<itemref idref='Ps.83' />
+<itemref idref='Ps.83.footnotes' />
+<itemref idref='Ps.84' />
+<itemref idref='Ps.84.footnotes' />
+<itemref idref='Ps.85' />
+<itemref idref='Ps.85.footnotes' />
+<itemref idref='Ps.86' />
+<itemref idref='Ps.86.footnotes' />
+<itemref idref='Ps.87' />
+<itemref idref='Ps.87.footnotes' />
+<itemref idref='Ps.88' />
+<itemref idref='Ps.88.footnotes' />
+<itemref idref='Ps.89' />
+<itemref idref='Ps.89.footnotes' />
+<itemref idref='Ps.90' />
+<itemref idref='Ps.90.footnotes' />
+<itemref idref='Ps.91' />
+<itemref idref='Ps.91.footnotes' />
+<itemref idref='Ps.92' />
+<itemref idref='Ps.92.footnotes' />
+<itemref idref='Ps.93' />
+<itemref idref='Ps.93.footnotes' />
+<itemref idref='Ps.94' />
+<itemref idref='Ps.94.footnotes' />
+<itemref idref='Ps.95' />
+<itemref idref='Ps.95.footnotes' />
+<itemref idref='Ps.96' />
+<itemref idref='Ps.96.footnotes' />
+<itemref idref='Ps.97' />
+<itemref idref='Ps.97.footnotes' />
+<itemref idref='Ps.98' />
+<itemref idref='Ps.98.footnotes' />
+<itemref idref='Ps.99' />
+<itemref idref='Ps.99.footnotes' />
+<itemref idref='Ps.100' />
+<itemref idref='Ps.100.footnotes' />
+<itemref idref='Ps.101' />
+<itemref idref='Ps.101.footnotes' />
+<itemref idref='Ps.102' />
+<itemref idref='Ps.102.footnotes' />
+<itemref idref='Ps.103' />
+<itemref idref='Ps.103.footnotes' />
+<itemref idref='Ps.104' />
+<itemref idref='Ps.104.footnotes' />
+<itemref idref='Ps.105' />
+<itemref idref='Ps.105.footnotes' />
+<itemref idref='Ps.106' />
+<itemref idref='Ps.106.footnotes' />
+<itemref idref='Ps.107' />
+<itemref idref='Ps.107.footnotes' />
+<itemref idref='Ps.108' />
+<itemref idref='Ps.108.footnotes' />
+<itemref idref='Ps.109' />
+<itemref idref='Ps.109.footnotes' />
+<itemref idref='Ps.110' />
+<itemref idref='Ps.110.footnotes' />
+<itemref idref='Ps.111' />
+<itemref idref='Ps.111.footnotes' />
+<itemref idref='Ps.112' />
+<itemref idref='Ps.112.footnotes' />
+<itemref idref='Ps.113' />
+<itemref idref='Ps.113.footnotes' />
+<itemref idref='Ps.114' />
+<itemref idref='Ps.114.footnotes' />
+<itemref idref='Ps.115' />
+<itemref idref='Ps.115.footnotes' />
+<itemref idref='Ps.116' />
+<itemref idref='Ps.116.footnotes' />
+<itemref idref='Ps.117' />
+<itemref idref='Ps.117.footnotes' />
+<itemref idref='Ps.118' />
+<itemref idref='Ps.118.footnotes' />
+<itemref idref='Ps.119' />
+<itemref idref='Ps.119.footnotes' />
+<itemref idref='Ps.120' />
+<itemref idref='Ps.120.footnotes' />
+<itemref idref='Ps.121' />
+<itemref idref='Ps.121.footnotes' />
+<itemref idref='Ps.122' />
+<itemref idref='Ps.122.footnotes' />
+<itemref idref='Ps.123' />
+<itemref idref='Ps.123.footnotes' />
+<itemref idref='Ps.124' />
+<itemref idref='Ps.124.footnotes' />
+<itemref idref='Ps.125' />
+<itemref idref='Ps.125.footnotes' />
+<itemref idref='Ps.126' />
+<itemref idref='Ps.126.footnotes' />
+<itemref idref='Ps.127' />
+<itemref idref='Ps.127.footnotes' />
+<itemref idref='Ps.128' />
+<itemref idref='Ps.128.footnotes' />
+<itemref idref='Ps.129' />
+<itemref idref='Ps.129.footnotes' />
+<itemref idref='Ps.130' />
+<itemref idref='Ps.130.footnotes' />
+<itemref idref='Ps.131' />
+<itemref idref='Ps.131.footnotes' />
+<itemref idref='Ps.132' />
+<itemref idref='Ps.132.footnotes' />
+<itemref idref='Ps.133' />
+<itemref idref='Ps.133.footnotes' />
+<itemref idref='Ps.134' />
+<itemref idref='Ps.134.footnotes' />
+<itemref idref='Ps.135' />
+<itemref idref='Ps.135.footnotes' />
+<itemref idref='Ps.136' />
+<itemref idref='Ps.136.footnotes' />
+<itemref idref='Ps.137' />
+<itemref idref='Ps.137.footnotes' />
+<itemref idref='Ps.138' />
+<itemref idref='Ps.138.footnotes' />
+<itemref idref='Ps.139' />
+<itemref idref='Ps.139.footnotes' />
+<itemref idref='Ps.140' />
+<itemref idref='Ps.140.footnotes' />
+<itemref idref='Ps.141' />
+<itemref idref='Ps.141.footnotes' />
+<itemref idref='Ps.142' />
+<itemref idref='Ps.142.footnotes' />
+<itemref idref='Ps.143' />
+<itemref idref='Ps.143.footnotes' />
+<itemref idref='Ps.144' />
+<itemref idref='Ps.144.footnotes' />
+<itemref idref='Ps.145' />
+<itemref idref='Ps.145.footnotes' />
+<itemref idref='Ps.146' />
+<itemref idref='Ps.146.footnotes' />
+<itemref idref='Ps.147' />
+<itemref idref='Ps.147.footnotes' />
+<itemref idref='Ps.148' />
+<itemref idref='Ps.148.footnotes' />
+<itemref idref='Ps.149' />
+<itemref idref='Ps.149.footnotes' />
+<itemref idref='Ps.150' />
+<itemref idref='Ps.150.footnotes' />
+	<itemref idref='Prov.1' />
+	<itemref idref='Prov.1.footnotes' />
+	<itemref idref='Prov.2' />
+	<itemref idref='Prov.2.footnotes' />
+	<itemref idref='Prov.3' />
+	<itemref idref='Prov.3.footnotes' />
+	<itemref idref='Prov.4' />
+	<itemref idref='Prov.4.footnotes' />
+	<itemref idref='Prov.5' />
+	<itemref idref='Prov.5.footnotes' />
+	<itemref idref='Prov.6' />
+	<itemref idref='Prov.6.footnotes' />
+	<itemref idref='Prov.7' />
+	<itemref idref='Prov.7.footnotes' />
+	<itemref idref='Prov.8' />
+	<itemref idref='Prov.8.footnotes' />
+	<itemref idref='Prov.9' />
+	<itemref idref='Prov.9.footnotes' />
+	<itemref idref='Prov.10' />
+	<itemref idref='Prov.10.footnotes' />
+	<itemref idref='Prov.11' />
+	<itemref idref='Prov.11.footnotes' />
+	<itemref idref='Prov.12' />
+	<itemref idref='Prov.12.footnotes' />
+	<itemref idref='Prov.13' />
+	<itemref idref='Prov.13.footnotes' />
+	<itemref idref='Prov.14' />
+	<itemref idref='Prov.14.footnotes' />
+	<itemref idref='Prov.15' />
+	<itemref idref='Prov.15.footnotes' />
+	<itemref idref='Prov.16' />
+	<itemref idref='Prov.16.footnotes' />
+	<itemref idref='Prov.17' />
+	<itemref idref='Prov.17.footnotes' />
+	<itemref idref='Prov.18' />
+	<itemref idref='Prov.18.footnotes' />
+	<itemref idref='Prov.19' />
+	<itemref idref='Prov.19.footnotes' />
+	<itemref idref='Prov.20' />
+	<itemref idref='Prov.20.footnotes' />
+	<itemref idref='Prov.21' />
+	<itemref idref='Prov.21.footnotes' />
+	<itemref idref='Prov.22' />
+	<itemref idref='Prov.22.footnotes' />
+	<itemref idref='Prov.23' />
+	<itemref idref='Prov.23.footnotes' />
+	<itemref idref='Prov.24' />
+	<itemref idref='Prov.24.footnotes' />
+	<itemref idref='Prov.25' />
+	<itemref idref='Prov.25.footnotes' />
+	<itemref idref='Prov.26' />
+	<itemref idref='Prov.26.footnotes' />
+	<itemref idref='Prov.27' />
+	<itemref idref='Prov.27.footnotes' />
+	<itemref idref='Prov.28' />
+	<itemref idref='Prov.28.footnotes' />
+	<itemref idref='Prov.29' />
+	<itemref idref='Prov.29.footnotes' />
+	<itemref idref='Prov.30' />
+	<itemref idref='Prov.30.footnotes' />
+	<itemref idref='Prov.31' />
+	<itemref idref='Prov.31.footnotes' />
 	<itemref idref="StrongsHebrew"/>
 </spine>
 
@@ -153,21 +1046,21 @@
 	Within the package there may be one guide element, containing one or more reference elements.
 	The guide element identifies fundamental structural components of the publication, to enable
 	Reading Systems to provide convenient access to them.
-  
+
   For detailed info visit: http://www.idpf.org/2007/opf/OPF_2.0_final_spec.html#Section2.6
-  
+
   The Kindle reading system support two special guide items which are both mandatory.
   type="toc"  [mandatory]: a link to the HTML table of contents
   type="text" [mandatory]: a link to where the content of the book starts (typically after the front matter)
-	
+
   Kindle reading platforms need both thede guid items to provide a consistent user enxperience to the user.
-  
+
   It is good practice to include both a logical table of contents (NCX) and an HTML table of contents
   (made of hyperlinks). The NCX enables various advanced navigation features but the HTML table of
   contents can easily be discovered by the user by paging through the book. Both are useful.
-	
+
 -->
-	
+
 <guide>
 	<reference type="toc" title="Table of Contents" href="toc.html"></reference>
 	<reference type="text" title="Welcome" href="Welcome.html"></reference>
