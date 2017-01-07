@@ -560,7 +560,7 @@
 	<item id="My_Table_of_Contents" media-type="application/x-dtbncx+xml" href="Tanakh.ncx"/>
 
 	<!-- cover image [mandatory] -->
-	<item id="My_Cover" media-type="image/jpeg" href="Great_Isaiah_Scroll_Ch53.jpg"/>
+	<item id="My_Cover" media-type="image/jpeg" href="Leningrad_Codex_Carpet_page_e.jpg"/>
 </manifest>
 
 <!--
