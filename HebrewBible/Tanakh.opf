@@ -89,6 +89,7 @@
 	<!-- HTML content files [mandatory] -->
 	<item id="item1" media-type="application/xhtml+xml" href="toc.html"></item>
 
+	<item id='Gen.0' media-type='application/xhtml+xml' href='Gen.0.html'></item>
 	<item id='Gen.1' media-type='application/xhtml+xml' href='Gen.1.html'></item>
 	<item id='Gen.1.footnotes' media-type='application/xhtml+xml' href='Gen.1.footnotes.html'></item>
 	<item id='Gen.2' media-type='application/xhtml+xml' href='Gen.2.html'></item>
@@ -189,6 +190,7 @@
 	<item id='Gen.49.footnotes' media-type='application/xhtml+xml' href='Gen.49.footnotes.html'></item>
 	<item id='Gen.50' media-type='application/xhtml+xml' href='Gen.50.html'></item>
 	<item id='Gen.50.footnotes' media-type='application/xhtml+xml' href='Gen.50.footnotes.html'></item>
+	<item id='Ps.0' media-type='application/xhtml+xml' href='Ps.0.html'></item>
 	<item id='Ps.1' media-type='application/xhtml+xml' href='Ps.1.html'></item>
 	<item id='Ps.1.footnotes' media-type='application/xhtml+xml' href='Ps.1.footnotes.html'></item>
 	<item id='Ps.2' media-type='application/xhtml+xml' href='Ps.2.html'></item>
@@ -489,6 +491,7 @@
 	<item id='Ps.149.footnotes' media-type='application/xhtml+xml' href='Ps.149.footnotes.html'></item>
 	<item id='Ps.150' media-type='application/xhtml+xml' href='Ps.150.html'></item>
 	<item id='Ps.150.footnotes' media-type='application/xhtml+xml' href='Ps.150.footnotes.html'></item>
+	<item id='Prov.0' media-type='application/xhtml+xml' href='Prov.0.html'></item>
 	<item id='Prov.1' media-type='application/xhtml+xml' href='Prov.1.html'></item>
 	<item id='Prov.1.footnotes' media-type='application/xhtml+xml' href='Prov.1.footnotes.html'></item>
 	<item id='Prov.2' media-type='application/xhtml+xml' href='Prov.2.html'></item>
@@ -557,7 +560,7 @@
 	<item id="My_Table_of_Contents" media-type="application/x-dtbncx+xml" href="Tanakh.ncx"/>
 
 	<!-- cover image [mandatory] -->
-	<item id="My_Cover" media-type="image/gif" href="GraphicsWelcome/WImage-cover.gif"/>
+	<item id="My_Cover" media-type="image/jpeg" href="Great_Isaiah_Scroll_Ch53.jpg"/>
 </manifest>
 
 <!--
